@@ -26,7 +26,7 @@
   <!-- Personal Links -->
   <div align="center">
     <a href="https://github.com/karthickramalagar">
-      <img src="https://img.shields.io/badge/GitHub-KarthickRamAlagar-black?style=for-the-badge&logo=github" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-KarthickRamAlagar-white?style=for-the-badge&logo=github" alt="GitHub" />
     </a>
     <a href="https://linkedin.com/in/karthickramalagar">
       <img src="https://img.shields.io/badge/LinkedIn-KarthickRamAlagar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
